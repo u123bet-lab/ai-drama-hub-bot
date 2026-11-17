@@ -1,2 +1,84 @@
 
-[]
+[
+  {
+    "id": "drama001",
+    "title": "持械入宋：第十一季",
+    "category": "Historical",
+    "description": "Historical war and military adventure.",
+    "url": "https://hongguoduanju.com/detail?series_id=7704532495357725721",
+    "popular": true,
+    "ai": true
+  },
+  {
+    "id": "drama002",
+    "title": "穿越八零，我把娘俩宠成宝",
+    "category": "Time Travel",
+    "description": "A time-travel family drama.",
+    "url": "https://hongguoduanju.com/detail?series_id=7705824595416190014",
+    "popular": true,
+    "ai": true
+  },
+  {
+    "id": "drama003",
+    "title": "nova：新星",
+    "category": "Rebirth",
+    "description": "A drama featuring rebirth and a new beginning.",
+    "url": "https://hongguoduanju.com/detail?series_id=7699513062054710296",
+    "popular": true,
+    "ai": true
+  },
+  {
+    "id": "drama004",
+    "title": "莞城人生",
+    "category": "Urban",
+    "description": "An urban drama about life and overcoming challenges.",
+    "url": "https://hongguoduanju.com/detail?series_id=7705472484295855128",
+    "popular": true,
+    "ai": true
+  },
+  {
+    "id": "drama005",
+    "title": "退役归来，这个保镖不好惹第二季",
+    "category": "Action",
+    "description": "An urban action drama about a returning veteran.",
+    "url": "https://hongguoduanju.com/detail?series_id=7701289626924747801",
+    "popular": true,
+    "ai": true
+  },
+  {
+    "id": "drama006",
+    "title": "大佬修仙满级回现代，我让全家横着走",
+    "category": "Fantasy",
+    "description": "A fantasy cultivation adventure set in modern times.",
+    "url": "https://hongguoduanju.com/detail?series_id=7704572437853113406",
+    "popular": true,
+    "ai": true
+  },
+  {
+    "id": "drama007",
+    "title": "悍妻当家，靠美食扶起一家软骨头",
+    "category": "Time Travel",
+    "description": "A family adventure involving cooking and time travel.",
+    "url": "https://hongguoduanju.com/detail?series_id=7703173252444589080",
+    "popular": true,
+    "ai": true
+  },
+  {
+    "id": "drama008",
+    "title": "山野杏林，助乡兴家",
+    "category": "Rural",
+    "description": "A rural drama about improving life in the countryside.",
+    "url": "https://hongguoduanju.com/detail?series_id=7704565081253612568",
+    "popular": true,
+    "ai": true
+  },
+  {
+    "id": "drama009",
+    "title": "持械入宋：第一季",
+    "category": "Historical",
+    "description": "The beginning of a historical military adventure.",
+    "url": "https://hongguoduanju.com/detail?series_id=7671966197985856536",
+    "popular": true,
+    "ai": true
+  }
+]
